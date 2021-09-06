@@ -1,0 +1,5 @@
+1. In de file cmd die je wilt exporten.
+2. git add -A 
+3. git commit -a -m "text"
+4. git push
+ 
